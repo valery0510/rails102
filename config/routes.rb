@@ -7,8 +7,6 @@ resources :groups do
     post :quit
   end
 
-
-
   resources :posts
 end
   root 'groups#index'
