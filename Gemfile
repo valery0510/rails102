@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+
 gem "will_paginate"
 gem "simple_form"
 gem "devise"
